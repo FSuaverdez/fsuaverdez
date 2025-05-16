@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-* 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [FrannzDev Portfolio](http://fsuaverdez.github.io/portfolio)
 * ✉️  You can contact me at [sfrannz@gmail.com](mailto:sfrannz@gmail.com)
 
